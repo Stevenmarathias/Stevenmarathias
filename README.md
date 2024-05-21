@@ -4,6 +4,7 @@
 
   - [Algorithm-for-File-Updates]https://github.com/Stevenmarathias/Algorithm-for-File-Updates-in-Pyton/tree/main
   - [Linux-File-Permissions]https://github.com/Stevenmarathias/Linux-File-Permissions.git
+  - [SQL-Filters-Project]https://github.com/Stevenmarathias/SQL-Filters-Project.git
     
 <h2>🏅 Certifications</h2>
 
