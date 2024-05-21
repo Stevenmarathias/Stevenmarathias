@@ -4,6 +4,7 @@
 
   - [File-Update-Algorithm]https://github.com/Stevenmarathias/File-Update-Algorithm.git
   - [Algorithm-for-File-Updates]https://github.com/Stevenmarathias/Algorithm-for-File-Updates-in-Pyton/tree/main
+  - [Linux-File-Permissions]https://github.com/Stevenmarathias/Linux-File-Permissions.git
     
 <h2>🏅 Certifications</h2>
 
